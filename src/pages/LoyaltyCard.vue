@@ -12,10 +12,10 @@
     <q-markup-table>
       <thead>
         <tr>
-          <th class="text-center">First Name</th>
-          <th class="text-center">Last Name</th>
-          <th class="text-center">Membership Tier</th>
-          <th class="text-center">Description</th>
+          <th class="text-left">First Name</th>
+          <th class="text-right">Last Name</th>
+          <th class="text-right">Membership Tier</th>
+          <th class="text-right">Description</th>
         </tr>
       </thead>
       <tbody>
